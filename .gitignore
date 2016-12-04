@@ -1,1 +1,14 @@
+#Visual Studio
 .svn
+.vs
+Debug
+Release
+*.suo
+*.exe
+*.ilk
+*.log
+*.obj
+*.pdb
+*.tlog
+*.lastbuildstate
+*.db
